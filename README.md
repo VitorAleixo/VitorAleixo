@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! My name is Vitor Aleixo Nascimento. FullStack Developer (C# | .NET) 
+
+⚡Passionate about programming and complex problem solving
+
+- 🔭 I’m currently working on some projects with C# and .NET Core.
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/vitor-aleixo-nascimento/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 <!--
 **VitorAleixo/VitorAleixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
