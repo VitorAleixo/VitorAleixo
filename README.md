@@ -3,7 +3,7 @@
 ⚡Passionate about programming and complex problem solving
 
 - 🔭 I’m currently working on some projects with C# and .NET Core.
-- 🌱 Technologies: C# (.NET Core 9),Blazor, MudBlazor, Swagger, Entity Framework, SQL (SQLServer, MySQL, SQLite), NoSQL (RavenDB), Docker, Azure (KeyVault, ServiceBus, Storage Service, AI Search), CQRS, Javascript, HTML, CSS.
+- 🌱 Technologies: C# (.NET Core 9), Blazor, MudBlazor, Swagger, MediatR, Entity Framework, SQL (SQLServer, MySQL, SQLite), NoSQL (RavenDB), Docker, Azure (KeyVault, ServiceBus, Storage Service, AI Search), CQRS, Javascript, HTML, CSS.
   
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/vitor-aleixo-nascimento/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
